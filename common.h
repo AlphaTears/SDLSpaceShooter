@@ -1,0 +1,13 @@
+#pragma once
+#include "stdlib.h"
+#include "stdio.h"
+#include "string.h"
+#include "math.h"
+#include "ctype.h"
+
+#include "SDL.h"
+#include "SDL_image.h"
+
+#include <vector>
+#include "defs.h"
+#include "structs.h"
